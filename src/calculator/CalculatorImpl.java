@@ -1,6 +1,15 @@
 package calculator;
+
 import java.math.BigDecimal;
 
+/**
+ * 
+ * Diese Klasse beinhaltet die Berechnung von Pi
+ * 
+ * @author Michael Weinberger & Matthias El-Far 4AHITT
+ * @version 2014-12-12
+ *
+ */
 
 public class CalculatorImpl implements Calculator{
 	
